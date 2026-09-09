@@ -1,4 +1,4 @@
-const API_URL = "https://seu-site.vercel.app/api";
+const API_URL = "https://msk-agente.vercel.app/";
 
 const messagesEl = document.getElementById("messages");
 const emptyEl = document.getElementById("empty");
